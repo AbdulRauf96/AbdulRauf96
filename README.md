@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently also working towards a certification in Applied Machine Learning
 - 🤔 I’m looking for job oppurtunities in Data Science and Machine Learning
 - 💬 Ask me about Financial Modeling, Mental Models and Dashboards
-- - 📫 How to reach me: Either by email at abdulrauf96@gmail.com or at https://www.linkedin.com/in/abdulrauf96/
+- 📫 How to reach me: Either by email at abdulrauf96@gmail.com or at https://www.linkedin.com/in/abdulrauf96/
 - 😄 Pronouns: He/Him
