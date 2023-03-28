@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Financial Modeling, Mental Models and Dashboards
 - 📫 How to reach me: Either by email at abdulrauf96@gmail.com or at https://www.linkedin.com/in/abdulrauf96/
 - 😄 Pronouns: He/Him
-<\br>
+
+
 [![Rauf's github stats](https://github-readme-stats.vercel.app/api?username=AbdulRauf96&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRauf96)](https://github.com/anuraghazra/github-readme-stats)
